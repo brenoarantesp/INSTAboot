@@ -1,0 +1,57 @@
+.logo {
+    height: 35%;
+    width: 35%;
+}
+. {
+    position: fixed;
+    z-index: 999;
+}
+div.feed {
+    width: 500px;
+    margin: auto;
+}
+div.post {
+    margin-top: 15px;
+}
+div.post .postheader div:first-child {
+    display: inline-block;
+    width: 80%;
+}
+div.post .postheader div:last-child {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+}
+.post {
+    background: white;
+}
+
+div.post2 .postheader2 div:first-child {
+    display: inline-block;
+    width: 80%;
+}
+div.post2 .postheader2 div:last-child {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+}
+div.feed2 {
+    width: 500px;
+    margin: auto;
+}
+div.post2 {
+    margin-top: 15px;
+}
+.post2 {
+    background: white;
+}
+
+#w3review {
+    border-radius: 5px;
+}
+
+.blocks {
+    margin: auto;
+}
